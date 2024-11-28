@@ -1,0 +1,24 @@
+# Node.js
+node_modules/
+
+# Build files
+/build
+
+# Dependency directories
+/.pnp
+.pnp.js
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# Compiled TypeScript
+*.js
+*.js.map
+
+# Compiled CSS
+*.css
+*.css.map
